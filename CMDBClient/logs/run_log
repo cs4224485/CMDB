@@ -1,0 +1,139 @@
+2019-07-03-15:25:36	INFO	{'HardwareChanges': 'Asset[<id:8 name:00331-20090-00000-AA381>] --> component[8:slot:0 capacity:223.56845140457153] --> is lacking from reporting source data, assume it has been removed or replaced,will also delete it from DB'}
+2019-07-03-15:25:36	INFO	{'NewComponentAdded': "Asset[<id:8 name:00331-20090-00000-AA381>] --> component[Disk] has justed added a new item [{'sn': 'TW18807A9945132', 'slot': 0, 'manufactory': '(标准磁盘驱动器)', 'model': 'tigo SSD 240GB', 'capacity': 223.56845140457153, 'iface_type': 'SSD', 'asset_id': 8}]"}
+2019-07-03-15:25:36	ERROR	{'AssetUpdateWarning': 'Cannot find any matches in source data by using key field val [0],component data is missing in reporting data!'}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [disk_set]'s key field [slot] is not provided in reporting data "}
+2019-07-03-15:25:36	WARNING	{'AssetUpdateWarning': "Asset component [00331-20090-00000-AA381 sn:00331-20090-00000-AA381]'s field [raid_type] is not provided in reporting data "}
+2019-07-03-15:26:01	INFO	{'HardwareChanges': 'Asset[<id:8 name:00331-20090-00000-AA381>] --> component[8:slot:0 capacity:223.56845140457153] --> is lacking from reporting source data, assume it has been removed or replaced,will also delete it from DB'}
+2019-07-03-15:26:01	INFO	{'NewComponentAdded': "Asset[<id:8 name:00331-20090-00000-AA381>] --> component[Disk] has justed added a new item [{'sn': 'TW18807A9945132', 'slot': 0, 'manufactory': '(标准磁盘驱动器)', 'model': 'tigo SSD 240GB', 'capacity': 223.56845140457153, 'iface_type': 'SSD', 'asset_id': 8}]"}
+2019-07-03-15:26:01	INFO	{'FieldChanged': 'Asset[<id:8 name:00331-20090-00000-AA381>] --> component[Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz] --> field[cpu_count] has changed from [4] to [1]'}
+2019-07-03-15:26:01	ERROR	{'AssetUpdateWarning': 'Cannot find any matches in source data by using key field val [0],component data is missing in reporting data!'}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [disk_set]'s key field [slot] is not provided in reporting data "}
+2019-07-03-15:26:01	WARNING	{'AssetUpdateWarning': "Asset component [00331-20090-00000-AA381 sn:00331-20090-00000-AA381]'s field [raid_type] is not provided in reporting data "}
+2019-07-03-15:26:22	INFO	{'HardwareChanges': 'Asset[<id:8 name:00331-20090-00000-AA381>] --> component[8:slot:0 capacity:223.56845140457153] --> is lacking from reporting source data, assume it has been removed or replaced,will also delete it from DB'}
+2019-07-03-15:26:22	INFO	{'NewComponentAdded': "Asset[<id:8 name:00331-20090-00000-AA381>] --> component[Disk] has justed added a new item [{'sn': 'TW18807A9945132', 'slot': 0, 'manufactory': '(标准磁盘驱动器)', 'model': 'tigo SSD 240GB', 'capacity': 223.56845140457153, 'iface_type': 'SSD', 'asset_id': 8}]"}
+2019-07-03-15:26:22	ERROR	{'AssetUpdateWarning': 'Cannot find any matches in source data by using key field val [0],component data is missing in reporting data!'}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [disk_set]'s key field [slot] is not provided in reporting data "}
+2019-07-03-15:26:22	WARNING	{'AssetUpdateWarning': "Asset component [00331-20090-00000-AA381 sn:00331-20090-00000-AA381]'s field [raid_type] is not provided in reporting data "}
+2019-07-03-15:30:27	INFO	{'HardwareChanges': 'Asset[<id:8 name:00331-20090-00000-AA381>] --> component[8:slot:0 capacity:223.56845140457153] --> is lacking from reporting source data, assume it has been removed or replaced,will also delete it from DB'}
+2019-07-03-15:30:27	INFO	{'NewComponentAdded': "Asset[<id:8 name:00331-20090-00000-AA381>] --> component[Disk] has justed added a new item [{'sn': 'TW18807A9945132', 'slot': 0, 'manufactory': '(标准磁盘驱动器)', 'model': 'tigo SSD 240GB', 'capacity': 223.56845140457153, 'iface_type': 'SSD', 'asset_id': 8}]"}
+2019-07-03-15:30:27	ERROR	{'AssetUpdateWarning': 'Cannot find any matches in source data by using key field val [0],component data is missing in reporting data!'}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [disk_set]'s key field [slot] is not provided in reporting data "}
+2019-07-03-15:30:27	WARNING	{'AssetUpdateWarning': "Asset component [00331-20090-00000-AA381 sn:00331-20090-00000-AA381]'s field [raid_type] is not provided in reporting data "}
+2019-07-03-17:07:27	INFO	{'HardwareChanges': 'Asset[<id:8 name:00331-20090-00000-AA381>] --> component[8:slot:0 capacity:223.56845140457153] --> is lacking from reporting source data, assume it has been removed or replaced,will also delete it from DB'}
+2019-07-03-17:07:27	INFO	{'NewComponentAdded': "Asset[<id:8 name:00331-20090-00000-AA381>] --> component[Disk] has justed added a new item [{'sn': 'TW18807A9945132', 'slot': 0, 'manufactory': '(标准磁盘驱动器)', 'model': 'tigo SSD 240GB', 'capacity': 223.56845140457153, 'iface_type': 'SSD', 'asset_id': 8}]"}
+2019-07-03-17:07:27	ERROR	{'AssetUpdateWarning': 'Cannot find any matches in source data by using key field val [0],component data is missing in reporting data!'}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [disk_set]'s key field [slot] is not provided in reporting data "}
+2019-07-03-17:07:27	WARNING	{'AssetUpdateWarning': "Asset component [00331-20090-00000-AA381 sn:00331-20090-00000-AA381]'s field [raid_type] is not provided in reporting data "}
+2019-07-03-17:31:49	INFO	{'HardwareChanges': 'Asset[<id:8 name:00331-20090-00000-AA381>] --> component[8:slot:0 capacity:223.56845140457153] --> is lacking from reporting source data, assume it has been removed or replaced,will also delete it from DB'}
+2019-07-03-17:31:49	INFO	{'NewComponentAdded': "Asset[<id:8 name:00331-20090-00000-AA381>] --> component[Disk] has justed added a new item [{'sn': 'TW18807A9945132', 'slot': 0, 'manufactory': '(标准磁盘驱动器)', 'model': 'tigo SSD 240GB', 'capacity': 223.56845140457153, 'iface_type': 'SSD', 'asset_id': 8}]"}
+2019-07-03-17:31:49	ERROR	{'AssetUpdateWarning': 'Cannot find any matches in source data by using key field val [0],component data is missing in reporting data!'}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:01]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:00:50:56:C0:00:08]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:0C:9D:92:BC:30:97]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:7C:B2:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:88:C4:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [8:92:27:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [disk_set]'s key field [slot] is not provided in reporting data "}
+2019-07-03-17:31:49	WARNING	{'AssetUpdateWarning': "Asset component [00331-20090-00000-AA381 sn:00331-20090-00000-AA381]'s field [raid_type] is not provided in reporting data "}
